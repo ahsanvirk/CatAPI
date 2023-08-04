@@ -1,6 +1,6 @@
 # How I worked on this project
 
-### I worked on this project by programming it all in Android Studio. This was a project in my Mobile Application class where the assignment was to build an application that calls APIs for cat breeds using a Web Service as a source of data and has a User Interface (UI) created using Jetpack Standards.
+### I worked on this project by programming it all in Android Studio. This was a project in my Mobile Application class where the assignment was to build an application that calls APIs for cat breeds (set with a limit of 10,000 total requests) using a Web Service as a source of data and has a User Interface (UI) created using Jetpack Standards. 
 
 # How to navigate this project
 
